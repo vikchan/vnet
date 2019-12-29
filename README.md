@@ -27,7 +27,7 @@ window直接运行exe
 
 linx:
 ```
-wget https://github.com/rc452860/vnet/releases/download/v0.0.4/vnet_linux_amd64 -O vnet && chmod +x vnet && ./vnet
+wget https://github.com/vikchan/vnet/releases/download/v0.0.6/vnet_linux_amd64 -O vnet && chmod +x vnet && ./vnet
 #配置好数据库后按ctrl + c退出使用nohup启动
 nohup ./vnet>vnet.log 2>&1 &
 ```
